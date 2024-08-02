@@ -1,6 +1,7 @@
 __Overview__
 
 The Weather App is a simple web application that provides current weather information for any city. It uses the OpenWeatherMap API to fetch and display weather data such as temperature, humidity, and wind speed. The app features a search bar for entering city names and dynamically updates the weather information based on the search input.
+
 __Features__
 
   City Search: Enter a city name to get the current weather information.
